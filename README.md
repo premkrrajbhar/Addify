@@ -7,7 +7,7 @@ A **simple yet elegant web application** that calculates the sum of two numbers.
 
 ## 🔗 Live Demo
 
-Check out the app live here: **[Sum App Live Demo]()**
+Check out the app live here: **[Sum App Live Demo](https://premkrrajbhar.github.io/sum-app/)**
 
 ## Table of Contents
 
