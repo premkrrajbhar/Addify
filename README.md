@@ -9,14 +9,6 @@ A **simple yet elegant web application** that calculates the sum of two numbers.
 
 Check out the app live here: **[Sum App Live Demo](https://premkrrajbhar.github.io/sum-app/)**
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## 📋 Features
 
 - **Real-Time Calculation**: Instantly calculates the sum of two numbers upon clicking the "Calculate Sum" button.
