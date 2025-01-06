@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-image: url(https://www.shutterstock.com/image-photo/flat-lay-top-view-bright-600nw-1835304859.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#container {
+    background-color: rgba(93, 176, 218, 0.85); 
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    min-height: 350px; 
+    width: 300px; 
+}
+
+#container h1 {
+    margin: 10px 0;
+    font-size: 24px;
+    color: white; 
+}
+
+#container input {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    width: 100%;
+    max-width: 200px; 
+    border-radius: 8px;
+    border: none;
+    box-sizing: border-box; 
+}
+
+#sumBtn,
+#resetBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    width: 100%;
+    max-width: 220px;
+}
+
+#sumBtn:hover,
+#resetBtn:hover {
+    background-color: #308834;
+}
+
+#sumDisplay {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 10px;
+    color: white;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.6); 
+    border-radius: 5px;
+    max-width: 250px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (max-width: 400px) {
+    #container {
+        width: 80%; 
+        min-height: auto;     }
+}
