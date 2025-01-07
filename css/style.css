@@ -14,19 +14,32 @@ body {
 }
 
 #container {
+<<<<<<< HEAD
     background-color: rgba(93, 176, 218, 0.85);
+=======
+    background-color: rgba(93, 176, 218, 0.85); 
+>>>>>>> 72a6d60cac34ecf16dcc144c383997390c262b95
     padding: 20px;
     text-align: center;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+<<<<<<< HEAD
     min-height: 350px;
     width: 300px;
+=======
+    min-height: 350px; 
+    width: 300px; 
+>>>>>>> 72a6d60cac34ecf16dcc144c383997390c262b95
 }
 
 #container h1 {
     margin: 10px 0;
     font-size: 24px;
+<<<<<<< HEAD
     color: white;
+=======
+    color: white; 
+>>>>>>> 72a6d60cac34ecf16dcc144c383997390c262b95
 }
 
 #container input {
@@ -34,10 +47,17 @@ body {
     margin: 10px;
     font-size: 16px;
     width: 100%;
+<<<<<<< HEAD
     max-width: 200px;
     border-radius: 8px;
     border: none;
     box-sizing: border-box;
+=======
+    max-width: 200px; 
+    border-radius: 8px;
+    border: none;
+    box-sizing: border-box; 
+>>>>>>> 72a6d60cac34ecf16dcc144c383997390c262b95
 }
 
 #sumBtn,
