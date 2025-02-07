@@ -1,13 +1,14 @@
-# Sum App
+# Addify
 
-A **simple yet elegant web application** that calculates the sum of two numbers. The app is designed with a clean user interface and features a responsive layout for an optimal user experience.
+Addify is a simple yet elegant web application that calculates the sum of two numbers. The app is designed with a clean user interface and features a responsive layout for an optimal user experience.
 
 ## 🎨 Demo Screenshot
-![Screenshot of Project](assets/screenshot.png)
+
+![Screenshot of Project](assets/screenshot/screenshot.jpg)
 
 ## 🔗 Live Demo
 
-Check out the app live here: **[Sum App Live Demo](https://premkrrajbhar.github.io/sum-app/)**
+Check out the app live here: **[Addify](https://premkrrajbhar.github.io/Addify/)**
 
 ## 📋 Features
 
@@ -28,6 +29,22 @@ Check out the app live here: **[Sum App Live Demo](https://premkrrajbhar.github.
 1. **Enter Numbers**: Input two numbers in the fields labeled "Enter First Number" and "Enter Second Number."
 2. **Calculate Sum**: Click the **"Calculate Sum"** button to display the sum of the two numbers.
 3. **Reset Fields**: Click the **"Reset"** button to clear the input fields and hide the result.
+
+## 📥 How to Run Locally
+
+- Step 1: Clone the repository:
+
+```bash
+   git clone https://github.com/premkrrajbhar/Addify.git
+```
+
+- Step 2: Navigate to the project folder:
+
+```bash
+   cd Addify
+```
+
+- Step 3: Open the `index.html` file in your web browser to start using the app.
 
 ## 🤝 Contributing
 
