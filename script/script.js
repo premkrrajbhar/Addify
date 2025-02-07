@@ -8,8 +8,8 @@ let closePopupBtn = document.getElementById("closePopupBtn");
 
 
 sumBtn.addEventListener("click", () => {
-    let num1Value = Number(num1.value);
-    let num2Value = Number(num2.value);
+    let num1Value = parseFloat(num1.value);
+    let num2Value = parseFloat(num2.value);
 
     if (!num1.value || !num2.value) {
         popupBox.style.display = "flex";
