@@ -30,6 +30,22 @@ Check out the app live here: **[Addify](https://premkrrajbhar.github.io/Addify/)
 2. **Calculate Sum**: Click the **"Calculate Sum"** button to display the sum of the two numbers.
 3. **Reset Fields**: Click the **"Reset"** button to clear the input fields and hide the result.
 
+## 📂 Project Structure
+
+```
+├── README.md
+├── assets/
+│   ├── favicon/
+│   │   └── addify-favicon.png
+│   └── screenshot/
+│       └── screenshot.jpg
+├── css/
+│   └── style.css
+├── index.html
+└── script/
+    └── script.js
+```
+
 ## 📥 How to Run Locally
 
 - Step 1: Clone the repository:
